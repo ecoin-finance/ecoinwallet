@@ -1,5 +1,7 @@
 # ECOIN Wallet App
-Overview
+![image_preview_link](https://github.com/ecoin-finance/ecoinwallet/assets/84532707/495e9f00-3af3-457f-8619-41f2a3b46dde)
+
+## Overview
 Welcome to the official repository for the ECOIN Wallet App! This repository contains the change-log of the ECOIN Wallet, a secure and user-friendly cryptocurrency wallet designed for managing your Ecoin Finance assets.
 
 ## Features

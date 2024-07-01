@@ -6,7 +6,7 @@ Welcome to the official repository for the ECOIN Wallet App! This repository con
 
 ## Features
 - Secure Wallet: Protect your assets with top-notch security features.
-- User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface.
+- User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
 - Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
 
 ## Getting Started

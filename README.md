@@ -15,22 +15,20 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 - [x] ZetaChain
 
 More chains are coming soon!
-- [x] Japan Network 🔜
-- [x] Solana
-- [x] Ton
-- [x] Cosmos
-
-## Accomplishments:
-- [x] First in the world to implement hardware-level security.
-- [x] First in the world to use OneUi powered by Samsung.
-- [x] First in the world to natively integrate ZetaChain cross-chain functionality.
-
+- [ ] Japan Network 🔜
+- [ ] Solana
+- [ ] Ton
+- [ ] Cosmos
 
 ## Features
 - [x] Secure Wallet: Protect your assets with top-notch security features.
 - [x] User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
 - [x] Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
 
+## Accomplishments:
+- [x] First in the world to implement hardware-level security.
+- [x] First in the world to use OneUi powered by Samsung.
+- [x] First in the world to natively integrate ZetaChain cross-chain functionality.
 
 ## Getting Started
 Download the ECOIN Wallet App from the Google Play Store or directly via the APK link below.

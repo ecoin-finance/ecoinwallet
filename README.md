@@ -8,27 +8,26 @@ Welcome to the official repository for the ECOIN Wallet App! This repository con
 ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our intuitive interface following Samsung's One UI design makes asset management accessible to everyone, from beginners to advanced users. We have simplified the process of wallet management, transactions, and exchanges so that you can focus on what matters most: seizing the opportunities offered by the world of cryptocurrencies.
 
 **We currently support the following networks on both networks (mainnet and testnet):**
-— Bitcoin
-— BNB Chain
-— Ethereum
-— Polygon
-— ZetaChain
-More chains are coming soon!
+- [x] Bitcoin
+- [x] BNB Chain
+- [x] Ethereum
+- [x] Polygon
+- [x] ZetaChain
 
-Rediscover what a crypto wallet is!
+More chains are coming soon!
 
 
 ## Accomplishments:
-— First in the world to implement hardware-level security.
-— First in the world to use OneUi powered by Samsung.
-— First in the world to natively integrate ZetaChain cross-chain functionality.
-
+- [x] First in the world to implement hardware-level security.
+- [x] First in the world to use OneUi powered by Samsung.
+- [x] First in the world to natively integrate ZetaChain cross-chain functionality.
 
 
 ## Features
-- Secure Wallet: Protect your assets with top-notch security features.
-- User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
-- Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
+- [x] Secure Wallet: Protect your assets with top-notch security features.
+- [x] User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
+- [x] Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
+
 
 ## Getting Started
 Download the ECOIN Wallet App from the Google Play Store or directly via the APK link below.

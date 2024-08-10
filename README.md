@@ -15,7 +15,10 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 - [x] ZetaChain
 
 More chains are coming soon!
-
+- [x] Japan Network 🔜
+- [x] Solana
+- [x] Ton
+- [x] Cosmos
 
 ## Accomplishments:
 - [x] First in the world to implement hardware-level security.

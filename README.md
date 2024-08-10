@@ -33,7 +33,7 @@ More chains are coming soon!
 ## Getting Started
 Download the ECOIN Wallet App from the Google Play Store or directly via the APK link below.
 
-- [Download from Google Play](https://play.google.com/store/apps/details?id=org.ecoinwallet&hl=pt)
+- [Download from Google Play](https://play.google.com/store/apps/details?id=org.ecoinwallet&referrer=utm_source%3Dwebs%26utm_medium%ecoinwallet-github)
 
 - [Download APK ](https://play.google.com/store/apps/details?id=org.ecoinwallet&hl=pt)
 

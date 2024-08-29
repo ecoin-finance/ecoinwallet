@@ -12,10 +12,12 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 - [x] BNB Chain
 - [x] Ethereum
 - [x] Polygon
-- [x] ZetaChain 🆕
+- [x] ZetaChain (EVM) 🆕
+- [x] ZetaChain (Cosmos) (Testnet)  🆕
+- [ ] Japan Open Chain (Testnet) 🆕
+
 
 More chains are coming soon!
-- [ ] Japan Open Chain 🔜
 - [ ] Solana
 - [ ] Ton
 - [ ] Cosmos

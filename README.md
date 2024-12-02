@@ -12,6 +12,7 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 - [x] BNB Chain
 - [x] Ethereum
 - [x] Polygon
+- [x] Base
 - [x] ZetaChain (EVM) 🆕
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
@@ -31,6 +32,10 @@ More chains are coming soon!
 - [x] First in the world to implement hardware-level security.
 - [x] First in the world to use OneUi powered by Samsung.
 - [x] First in the world to natively integrate ZetaChain cross-chain functionality.
+
+## Cross-chain Between All Connected Chains
+ECOIN Wallet now offers seamless bridging between all connected chains, allowing you to effortlessly move assets across every chain we support.
+
 
 ## Getting Started
 Download the ECOIN Wallet App from the Google Play Store or directly via the APK link below.

@@ -21,6 +21,7 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 More chains are coming soon!
 - [ ] Solana
 - [ ] Ton
+- [ ] XRP
 - [ ] Cosmos
 
 ## Features

@@ -7,6 +7,9 @@ Welcome to the **official** repository for the **ECOIN Wallet App**! This reposi
 ## About
 ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our intuitive interface following Samsung's One UI design makes asset management accessible to everyone, from beginners to advanced users. We have simplified the process of wallet management, transactions, and exchanges so that you can focus on what matters most: seizing the opportunities offered by the world of cryptocurrencies.
 
+## Oficial website
+https://ecoinwallet.org
+
 ### Screnshots
 <table>
 <tr>
@@ -30,17 +33,20 @@ ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
 
-
 More chains are coming soon!
-- [ ] Solana
-- [ ] Ton
-- [ ] XRP Ledger
-- [ ] Cosmos
+- [ ] Solana (90%)
+- [ ] Ton (60%)
+- [ ] XRP Ledger (30%)
+- [ ] Cosmos (10%)
+- [ ] Pi Network (10%)
+- [ ] Sonic (0%)
+- [ ] Berachain (0%)
 
 ## Features
 - [x] Secure Wallet: Protect your assets with top-notch security features.
 - [x] User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
 - [x] Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
+- [x] Best WalletConnect integration with smooth and reliable connectivity.
 
 ## Accomplishments:
 - [x] First in the world to implement hardware-level security.

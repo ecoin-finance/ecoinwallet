@@ -32,9 +32,9 @@ https://ecoinwallet.org
 - [x] ZetaChain (EVM) 🆕
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
+- [x] Solana (90%)
 
 More chains are coming soon!
-- [ ] Solana (90%)
 - [ ] Ton (60%)
 - [ ] XRP Ledger (30%)
 - [ ] Cosmos (10%)

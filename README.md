@@ -13,11 +13,18 @@ https://ecoinwallet.org
 ### Screnshots
 <table>
 <tr>
-  <td><img src="https://github.com/user-attachments/assets/c615876d-6a50-4057-b552-e9c0399e92ba" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/a8ad5bf0-401d-4ab8-93d0-9b4136a9d1f6" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/42689dca-e0b1-4038-bb8b-0b9d2c1634fc" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/9c60abdd-468b-4e9c-b913-37c2beb8ef3d" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/9e30518c-a0dd-4d4f-a6a1-4396ebd23834" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/67d94c8e-bac1-4e6f-8d62-36254f2221fb" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/fc1ad080-3d4b-48fe-be4f-29a8804eb7c6" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/f5980479-b219-46dc-b8a3-ed65fedef1be" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/98b74ff2-63e8-4721-bca6-bb8cf40fa243" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/1e7101d6-05ca-45df-8ec6-bc195b20a735" width="300" /></td>
+</tr>
+<tr>
+  <td><img src="https://github.com/user-attachments/assets/cb63fe39-dfd4-4efc-a718-091a30fbbd7d" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/2c0c14fb-a78a-4a22-a903-e320f3d31e53" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/f1a1c5f9-7a34-496d-827f-6e22d0e8ce0f" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/b16b5250-02ad-4c4d-8f52-a345fb75783c" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/0d210ae6-abfa-4d66-b165-b98e56cf6ef0" width="300" /></td>
 </tr>
 </table>
 
@@ -32,7 +39,7 @@ https://ecoinwallet.org
 - [x] ZetaChain (EVM) 🆕
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
-- [x] Solana (90%)
+- [x] Solana 🆕
 
 More chains are coming soon!
 - [ ] Ton (60%)

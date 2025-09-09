@@ -40,7 +40,7 @@ https://ecoinwallet.org
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
 - [x] Solana 🆕
-- [x] Pi Network (10%)
+- [x] Pi Network 🆕
 
 More chains are coming soon!
 - [ ] Stellar (95%)

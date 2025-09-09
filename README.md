@@ -40,13 +40,14 @@ https://ecoinwallet.org
 - [x] ZetaChain (Cosmos) (Testnet)  🆕
 - [x] Japan Open Chain (Testnet) 🆕
 - [x] Solana 🆕
+- [x] Pi Network (10%)
 
 More chains are coming soon!
-- [ ] Ton (60%)
-- [ ] XRP Ledger (30%)
+- [ ] Stellar (95%)
+- [ ] XRP Ledger (80%)
+- [ ] Ton (70%)
 - [ ] Cosmos (10%)
-- [ ] Pi Network (10%)
-- [ ] Sonic (0%)
+- [ ] Sonic (50%)
 - [ ] Berachain (0%)
 
 ## Features
@@ -54,11 +55,13 @@ More chains are coming soon!
 - [x] User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
 - [x] Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
 - [x] Best WalletConnect integration with smooth and reliable connectivity.
+- [x] Payment Requests: Send requests with personalized, friendly messages.
 
 ## Accomplishments:
 - [x] First in the world to implement hardware-level security.
 - [x] First in the world to use One UI design, powered by Samsung.
 - [x] First in the world to natively integrate ZetaChain cross-chain functionality.
+- [x] The world first and only Pi Wallet alternative.
 
 ## Cross-chain Between All Connected Chains
 This ECOIN Wallet integration empowers users to bridge tokens across major networks, including Bitcoin, BNB Chain, Ethereum, Polygon, Base, ZetaChain, and ZRC20 tokens.

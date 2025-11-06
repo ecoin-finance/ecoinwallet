@@ -1,5 +1,5 @@
 # ECOIN Wallet App: Crypto & Bitcoin Wallet
-![image_preview_link](https://github.com/ecoin-finance/ecoinwallet/assets/84532707/495e9f00-3af3-457f-8619-41f2a3b46dde)
+<img width="1898" height="630" alt="image_preview_linkNEW33" src="https://github.com/user-attachments/assets/89e9a670-0e89-4889-89b8-d78e1dac8988" />
 
 ## Overview
 Welcome to the **official** repository for the **ECOIN Wallet App**! This repository contains the change-log of the ECOIN Wallet, a secure and user-friendly cryptocurrency wallet designed for managing your Ecoin Finance assets.
@@ -76,6 +76,8 @@ Download the ECOIN Wallet App from the Google Play Store or directly via the APK
 
 - [Download APK ](https://github.com/ecoin-finance/ecoinwallet/releases)
 
+![image_preview_link](https://github.com/ecoin-finance/ecoinwallet/assets/84532707/495e9f00-3af3-457f-8619-41f2a3b46dde)
+
 ## Disclaimer
 ECOIN Wallet is not an open source project to ensure the highest level of security for our users. We prioritize the safety and privacy of your assets.
 
@@ -84,3 +86,5 @@ The scripts and documentation in this project are released under the MIT License
 
 ## Contact Us
 For support or inquiries, please contact us at support@ecoinfinance.com.
+
+

@@ -5,30 +5,38 @@
 Welcome to the **official** repository for the **ECOIN Wallet App**! This repository contains the change-log of the ECOIN Wallet, a secure and user-friendly cryptocurrency wallet designed for managing your Ecoin Finance assets.
 
 ## About
-ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our intuitive interface following Samsung's One UI 7 design makes asset management accessible to everyone, from beginners to advanced users. We have simplified the process of wallet management, transactions, and exchanges so that you can focus on what matters most: seizing the opportunities offered by the world of cryptocurrencies.
+ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our intuitive interface following Samsung's One UI 8 design makes asset management accessible to everyone, from beginners to advanced users. We have simplified the process of wallet management, transactions, and exchanges so that you can focus on what matters most: seizing the opportunities offered by the world of cryptocurrencies.
 
 ## Oficial website
 https://ecoinwallet.org
 
+## Oficial blog
+https://ecoinwallet.org/blog
+
 ### Screnshots
 <table>
 <tr>
-  <td><img src="https://github.com/user-attachments/assets/67d94c8e-bac1-4e6f-8d62-36254f2221fb" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/fc1ad080-3d4b-48fe-be4f-29a8804eb7c6" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/f5980479-b219-46dc-b8a3-ed65fedef1be" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/98b74ff2-63e8-4721-bca6-bb8cf40fa243" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/4baffd72-ec2d-4a8f-9ff9-1a68cea09f2f" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/f69fe8fb-6ddf-4cdb-8e6c-bc3d1662bfef" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/fbd1ad22-34a9-40ea-befa-11766f196d51" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/2d58c2cc-6868-4c92-84ba-d50670725a5c" width="300" /></td>
   <td><img src="https://github.com/user-attachments/assets/1e7101d6-05ca-45df-8ec6-bc195b20a735" width="300" /></td>
 </tr>
 <tr>
   <td><img src="https://github.com/user-attachments/assets/cb63fe39-dfd4-4efc-a718-091a30fbbd7d" width="300" /></td>
-  <td><img src="https://github.com/user-attachments/assets/2c0c14fb-a78a-4a22-a903-e320f3d31e53" width="300" /></td>
+  <td><img src="https://github.com/user-attachments/assets/bf06cd6f-91a4-45ba-bb1b-9a3402a1a5b7" width="300" /></td>
   <td><img src="https://github.com/user-attachments/assets/f1a1c5f9-7a34-496d-827f-6e22d0e8ce0f" width="300" /></td>
   <td><img src="https://github.com/user-attachments/assets/b16b5250-02ad-4c4d-8f52-a345fb75783c" width="300" /></td>
   <td><img src="https://github.com/user-attachments/assets/0d210ae6-abfa-4d66-b165-b98e56cf6ef0" width="300" /></td>
 </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cb5a5908-0c71-4dd2-9f59-657135cff52e" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/149acc94-0bae-4079-82bd-ef65faf5a326" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/c6286aaf-b5f2-4686-9b9a-5498b23cc57e" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/8c14ad43-4e8a-43ad-ac18-a9f96e346469" width="300" /></td>
+    <td><img src="https://github.com/user-attachments/assets/f5216e5a-e71c-47d7-b0a8-8eb7fb850e6a" width="300" /></td>
+</tr>
 </table>
-
-
 
 **We currently support the following networks on both networks (mainnet and testnet):**
 - [x] Bitcoin
@@ -41,7 +49,7 @@ https://ecoinwallet.org
 - [x] Japan Open Chain (Testnet) 🆕
 - [x] Solana 🆕
 - [x] Pi Network 🆕
-- [x] Stellar (XLM)
+- [x] Stellar (XLM) 🆕
 
 More chains are coming soon!
 - [ ] XRP Ledger (90%)

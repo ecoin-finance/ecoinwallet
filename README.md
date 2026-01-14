@@ -7,11 +7,14 @@ Welcome to the **official** repository for the **ECOIN Wallet App**! This reposi
 ## About
 ECOIN Wallet is your complete HUB for all your cryptocurrency-related needs. Our intuitive interface following Samsung's One UI 8 design makes asset management accessible to everyone, from beginners to advanced users. We have simplified the process of wallet management, transactions, and exchanges so that you can focus on what matters most: seizing the opportunities offered by the world of cryptocurrencies.
 
-## Oficial website
-https://ecoinwallet.org
+🔗 Official Website
+👉 https://ecoinwallet.org
 
-## Oficial blog
-https://ecoinwallet.org/blog
+📰 Official Blog
+👉 https://ecoinwallet.org/blog
+
+🚀 App Changelog & Releases
+👉 https://github.com/ecoin-finance/ecoinwallet/releases
 
 ### Screnshots
 <table>
@@ -62,8 +65,9 @@ More chains are coming soon!
 - [x] Secure Wallet: Protect your assets with top-notch security features.
 - [x] User-Friendly Interface: Easily manage your ECOIN tokens with an intuitive interface called **One UI** powered by **Samsung**.
 - [x] Real-Time Updates: Stay updated with real-time transaction notifications and balance updates.
-- [x] Best WalletConnect integration with smooth and reliable connectivity.
+- [x] Best WalletConnect v2 integration with smooth and reliable connectivity.
 - [x] Payment Requests: Send requests with personalized, friendly messages.
+- [x] Trending tokens to track the market in real time across BNB Chain, Ethereum, Polygon, Base, and Solana.
 
 ## Accomplishments:
 - [x] First in the world to implement hardware-level security.
